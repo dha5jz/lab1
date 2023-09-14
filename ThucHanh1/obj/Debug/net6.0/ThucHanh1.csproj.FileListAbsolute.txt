@@ -1,0 +1,60 @@
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.staticwebassets.runtime.json
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.exe
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.deps.json
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.runtimeconfig.json
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.dll
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.pdb
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.AssemblyInfo.cs
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.RazorAssemblyInfo.cache
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.RazorAssemblyInfo.cs
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.ThucHanh1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.build.ThucHanh1.props
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ThucHanh1.props
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ThucHanh1.props
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\scopedcss\bundle\ThucHanh1.styles.css
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\scopedcss\projectbundle\ThucHanh1.bundle.scp.css
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.dll
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\refint\ThucHanh1.dll
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.pdb
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.genruntimeconfig.cache
+C:\Users\PC\Downloads\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ref\ThucHanh1.dll
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.staticwebassets.runtime.json
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.exe
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.deps.json
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.runtimeconfig.json
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.dll
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\bin\Debug\net6.0\ThucHanh1.pdb
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.AssemblyInfo.cs
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.RazorAssemblyInfo.cache
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.RazorAssemblyInfo.cs
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.ThucHanh1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.build.ThucHanh1.props
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ThucHanh1.props
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ThucHanh1.props
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\scopedcss\bundle\ThucHanh1.styles.css
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\scopedcss\projectbundle\ThucHanh1.bundle.scp.css
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.dll
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\refint\ThucHanh1.dll
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.pdb
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ThucHanh1.genruntimeconfig.cache
+C:\Users\PC\Downloads\Năm 3\web\ThucHanh1\ThucHanh1\obj\Debug\net6.0\ref\ThucHanh1.dll
