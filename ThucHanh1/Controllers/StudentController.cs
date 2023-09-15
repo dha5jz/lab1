@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Security.Cryptography.X509Certificates;
 using ThucHanh1.Models;
-
+using IHostingEnvironment =  Microsoft.AspNetCore.Hosting.IHostingEnvironment;
 namespace ThucHanh1.Controllers
 {
     [Route("Admin/Student")]
@@ -28,7 +28,6 @@ namespace ThucHanh1.Controllers
                  new Student() { Id = 104, Name = "Xuân Mai", Branch = Branch.EE,
                     Gender = Gender.Female, IsRegular = false,
                     Address = "A1-2021", Email = "mai@g.com" }
-
             };
             
         
@@ -55,7 +54,6 @@ namespace ThucHanh1.Controllers
             };
             return View();
         }
-
         [HttpPost("Add")]
 		public async Task<ActionResult> Create(Student s)
 		{
