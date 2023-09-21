@@ -1,10 +1,29 @@
-﻿@model IEnumerable<Student>
+﻿@{
+	ViewData["Title"] = "Student List";
+	Layout = "~/Views/Shared/MyLayoutHelper.cshtml";
+	// Layout = "~/Views/Shared/MyLayout.cshtml";
+	// Layout = "~/Views/Shared/MyLayoutHelper.cshtml";
+
+}
+@model IEnumerable<Student>
 
 	 <a asp-action="Create" class="btn btn-primary" >Create Student</a>
 
 <!--HTML Thuần 
 <a href="/Admin/Student/Add" class="btn btn-primary">Create Student</a> 
 -->
+@* <!-- @{
+	Layout = "~/Views/Shared/MyLayoutHelper.cshtml";
+} --> *@
+
+@section Scripts{
+ <script>
+ var table = document.querySelector("table");
+ table.onclick = function onTableClick() {
+ table.style = "background-color: yellow;"
+ }
+ </script>
+}
 
 <table class="table table-striped">
 	<thead>

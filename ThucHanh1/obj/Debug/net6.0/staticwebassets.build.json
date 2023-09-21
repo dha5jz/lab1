@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MGiFhCfkkp2Z7LyK3c/jNjzUducvY4mZ8vbqXotMY3k=",
+  "Hash": "UeCCzzXhwaDrjEt8tViZS8xFGobebgNHOzHkbF7TFgw=",
   "Source": "ThucHanh1",
   "BasePath": "_content/ThucHanh1",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\css\\styles.css",
+      "SourceId": "ThucHanh1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\",
+      "BasePath": "_content/ThucHanh1",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
       "Identity": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\favicon.ico",
       "SourceId": "ThucHanh1",
       "SourceType": "Discovered",
@@ -83,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\FileImg\\mewongu.jpg",
+      "SourceId": "ThucHanh1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\",
+      "BasePath": "_content/ThucHanh1",
+      "RelativePath": "FileImg/mewongu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\FileImg\\mewongu.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\js\\scripts.js",
+      "SourceId": "ThucHanh1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\",
+      "BasePath": "_content/ThucHanh1",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
       "Identity": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\js\\site.js",

@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\ThucHanh1.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\FileImg\\mewongu.jpg",
+      "PackagePath": "staticwebassets\\FileImg\\mewongu.jpg"
+    },
+    {
       "Id": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
     },
     {
       "Id": "C:\\Users\\PC\\Downloads\\Năm 3\\web\\ThucHanh1\\ThucHanh1\\wwwroot\\js\\site.js",
